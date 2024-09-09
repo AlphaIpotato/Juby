@@ -1,4 +1,4 @@
-![구조도  이삭팜 - 주비](https://github.com/user-attachments/assets/7d5da737-d3e6-47d0-923d-6a7192f6967e)* **Project explanation**
+**Project explanation**
 해당 프로젝트 **JUBY**는 1차 산업 중 농업의 인력 부족 해결과 생산량, 효율성 증가와 객관적이고 정확한 최적의 생장 환경데이터를 수집하기 위해 기획되었다.
 
 *  **Specification**
@@ -33,14 +33,7 @@
 3. 해당 제품을 재현하기에 앞서 설치 권장중인 버전 외에는 호환성 체크를 하고 진행할 수 있길 바람
 
 
-* Flow chart
-![구조도  이삭팜 - 주비](https://github.com/user-attachments/assets/c6a265f1-320d-47cf-9956-defa883d5600)
-
-
-
-
 * CODE interpret
-
 
 
 
