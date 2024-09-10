@@ -2,23 +2,27 @@
 해당 프로젝트 **JUBY**는 1차 산업 중 농업의 인력 부족 해결과 생산량, 효율성 증가와 객관적이고 최적의 생장 환경데이터를 수집하기 위해 기획되었다.
 
 ## **Specification**
-보드: NVIDIA Jetson nano 4GB RAM
-<br/> 환경: Jetson nano Devlopment kit 4.6.1 ( Jetpack 4.6.4 )
-<br/>  OS : ubuntu  ( 18.6.04 LTS )
-<br/>  Python 3.9.1
+
+|보드| NVIDIA Jetson nano 4GB RAM|
+|:--:|:---:|
+|환경| Jetson nano Devlopment kit 4.6.1 ( Jetpack 4.6.4 )|
+|OS| ubuntu (18.6.04 LTS)|
 
 ## **Installed (version)**
-SSH
-<br/> jtop
-<br/> ufw
-<br/> Python 3.9.1
-<br/> OpenCV 4.5.5
-<br/> CUDA 10.2.300
-<br/> CUDA Toolkit 10.2
-<br/> PyTorch 1.8.0
-<br/> TorchVision 0.9.0
-<br/> Cython 0.29.36
-<br/> yolo5
+**Yolov5**
+|프로그램명|버전|
+|:---:|:---:|
+|SSH|any|
+|jtop|any|
+|ufw|any|
+|Python|3.9.1|
+|OpenCV|4.5.5|
+|CUDA|10.2.300|
+|CUDA Toolkit|10.2|
+|PyTorch|1.8.0|
+|TorchVision|0.9.0|
+|Cython|0.29.36|
+
 
 ## **How to use**
 1. 이동 경로대로 라인트레이서가 따라갈 수 있도록 바닥에 적절한 두께로 검은색 테이프를 테이핑한다.
