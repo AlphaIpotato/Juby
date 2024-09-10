@@ -48,3 +48,7 @@ JUNGBU Univercity Student ID Number 20 한승준
 
 ## **Status**
 **Free**
+
+
+
++회로도, 부품 제원, 기능 구조도
