@@ -37,6 +37,17 @@
 2. 해당 제품은 라인트레이서에 테이핑된 정지 구간에서 약 4초간 온습도 센서의 높낮이를 조절 후 4회 주기마다 최하단 높이로 초기화 되는게 정상 작동 상태. 만약 초기화되지 않는다면 제작자에게 문의 바람
 3. 해당 제품을 재현하기에 앞서 설치 권장중인 버전 외에는 호환성 체크를 하고 진행할 수 있길 바람
 
+## Parts
+Rasberry pi 3 model +B
+<br/>DC motor drive Board [AT8236 module compact version], [L298N motor driver]
+<br/>
+<br/>SMPS - [LRS-350-12]
+<br/>WHEELTEC DC reduction motor 12V
+<br/>Arduino Actuator 150mm 12V
+<br/>Level converter 3.3V to 5V
+<br/>TCRT5000 IR sensor
+<br/>NEXT 208PB-UPS portable batttery
+<br/>
 
 
 ## CODE interpret
@@ -49,17 +60,5 @@ JUNGBU Univercity Student ID Number 20 한승준
 ## **Status**
 **Free**
 
-
-## Parts
-Rasberry pi 3 model +B
-<br/>DC motor drive Board [AT8236 module compact version], [L298N motor driver]
-<br/>
-<br/>SMPS - [LRS-350-12]
-<br/>WHEELTEC DC reduction motor 12V
-<br/>Arduino Actuator 150mm 12V
-<br/>Level converter 3.3V to 5V
-<br/>TCRT5000 IR sensor
-<br/>NEXT 208PB-UPS portable batttery
-<br/>
 
 +회로도, 부품 제원, 기능 구조도
