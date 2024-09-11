@@ -50,5 +50,16 @@ JUNGBU Univercity Student ID Number 20 한승준
 **Free**
 
 
+## Parts
+Rasberry pi 3 model +B
+<br/>DC motor drive Board [AT8236 module compact version], [L298N motor driver]
+<br/>
+<br/>SMPS - [LRS-350-12]
+<br/>WHEELTEC DC reduction motor 12V
+<br/>Arduino Actuator 150mm 12V
+<br/>Level converter 3.3V to 5V
+<br/>TCRT5000 IR sensor
+<br/>NEXT 208PB-UPS portable batttery
+<br/>
 
 +회로도, 부품 제원, 기능 구조도
